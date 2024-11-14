@@ -4,7 +4,7 @@ Detta är ett krypteringsverktyg som ska kryptera samt dekryptera en fil (I dett
 
 Om en annan fil önskas måste filen läggas till i projektets mapp.
 
-Projektet har skapats av mig och är slutuppgiften för kursen "Applied script" hos FSH
+Projektet har skapats av mig och är slutuppgiften för kursen "Applied script" i utbildningen IT- och Cybersäkerhetsspecialist hos Frans Schartaus Handelsinstitut
 
 # För att kunna exekvera programmet behöver följande skrivas in terminalen:
 
