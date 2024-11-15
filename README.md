@@ -1,8 +1,8 @@
 # Krypteringsprojekt
 
-Detta är ett krypteringsverktyg som ska kryptera samt dekryptera en fil (I detta fall en bild fil som heter "roligkatt.jpg" och ligger i samma mapp som projektet).
+Detta är ett krypteringsverktyg som ska kryptera samt dekryptera en fil (I detta fall en bild fil som heter "roligkatt.jpg").
 
-Om en annan fil önskas måste filen läggas till i projektets mapp.
+Om en annan fil/filtyp önskas går det också bra.
 
 Projektet har skapats av mig och är slutuppgiften för kursen "Applied script" i utbildningen IT- och Cybersäkerhetsspecialist hos Frans Schartaus Handelsinstitut
 
